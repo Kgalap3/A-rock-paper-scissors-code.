@@ -1,3 +1,5 @@
+# A code for Rock, Paper, Scissors
+
 // Code for Rock, Paper, Scissors below 💖
 
 const player = Math.floor(Math.random()*3);
